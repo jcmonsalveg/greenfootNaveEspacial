@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=nave
+comment0.text=\r\n\ Clase\ que\ implementa\ la\ nave,\ con\ sus\ variables\ y\ m\u00E9todos\ o\ procedimientos\r\n\ \r\n\ @author\ Juan\ Carlos\ Monsalve\ G\r\n\ @version\ 1.5\ 08.09.2020\r\n
+comment1.params=
+comment1.target=nave()
+comment10.params=disparo
+comment10.target=void\ setShot(int)
+comment11.params=direccion
+comment11.target=void\ setDireccion(int)
+comment2.params=
+comment2.target=int\ getDireccionDisparo()
+comment3.params=nuevaDireccionDisparo
+comment3.target=void\ setDireccionDisparo(int)
+comment4.params=
+comment4.target=int\ getDOWN()
+comment5.params=
+comment5.target=int\ getLEFT()
+comment6.params=
+comment6.target=int\ getRIGHT()
+comment7.params=
+comment7.target=int\ getUP()
+comment8.params=
+comment8.target=void\ act()
+comment9.params=
+comment9.target=void\ moverNave()
+numComments=12

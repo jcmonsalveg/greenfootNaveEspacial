@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=roca
+comment0.text=\r\n\ Clase\ que\ implementa\ las\ rocas\ (asteroides)\ en\ el\ espacio\r\n\ @author\ Juan\ Carlos\ Monsalve\ G\r\n\ @version\ 1.5\ 08.09.2020\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ choque()
+comment3.params=
+comment3.target=void\ movimientoRoca()
+numComments=4
